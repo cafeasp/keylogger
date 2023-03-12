@@ -1,0 +1,387 @@
+[
+  {
+    "digit": 1,
+    "value": "[Left Click]"
+  },
+  {
+    "digit": 8,
+    "value": "[Back]"
+  },
+  {
+    "digit": 9,
+    "value": "[TAB]"
+  },
+  {
+    "digit": 13,
+    "value": "[Enter]"
+  },
+  {
+    "digit": 16,
+    "value": "[Shift]"
+  },
+  {
+    "digit": 19,
+    "value": "[Pause]"
+  },
+  {
+    "digit": 20,
+    "value": "[Caps Lock]"
+  },
+  {
+    "digit": 27,
+    "value": "[Esc]"
+  },
+  {
+    "digit": 32,
+    "value": "[Space]"
+  },
+  {
+    "digit": 33,
+    "value": "[Page Up]"
+  },
+  {
+    "digit": 34,
+    "value": "[Page Down]"
+  },
+  {
+    "digit": 35,
+    "value": "[End]"
+  },
+  {
+    "digit": 36,
+    "value": "[Home]"
+  },
+  {
+    "digit": 37,
+    "value": "Left]"
+  },
+  {
+    "digit": 38,
+    "value": "[Up]"
+  },
+  {
+    "digit": 39,
+    "value": "[Right]"
+  },
+  {
+    "digit": 40,
+    "value": "[Down]"
+  },
+  {
+    "digit": 44,
+    "value": "[Print Screen]"
+  },
+  {
+    "digit": 45,
+    "value": "[Insert]"
+  },
+  {
+    "digit": 46,
+    "value": "[Delete]"
+  },
+  {
+    "digit": 48,
+    "value": "0"
+  },
+  {
+    "digit": 49,
+    "value": "1"
+  },
+  {
+    "digit": 50,
+    "value": "2"
+  },
+  {
+    "digit": 51,
+    "value": "3"
+  },
+  {
+    "digit": 52,
+    "value": "4"
+  },
+  {
+    "digit": 53,
+    "value": "5"
+  },
+  {
+    "digit": 54,
+    "value": "6"
+  },
+  {
+    "digit": 55,
+    "value": "7"
+  },
+  {
+    "digit": 56,
+    "value": "8"
+  },
+  {
+    "digit": 57,
+    "value": "9"
+  },
+  {
+    "digit": 65,
+    "value": "a"
+  },
+  {
+    "digit": 66,
+    "value": "b"
+  },
+  {
+    "digit": 67,
+    "value": "c"
+  },
+  {
+    "digit": 68,
+    "value": "d"
+  },
+  {
+    "digit": 69,
+    "value": "e"
+  },
+  {
+    "digit": 70,
+    "value": "f"
+  },
+  {
+    "digit": 71,
+    "value": "g"
+  },
+  {
+    "digit": 72,
+    "value": "h"
+  },
+  {
+    "digit": 73,
+    "value": "i"
+  },
+  {
+    "digit": 74,
+    "value": "j"
+  },
+  {
+    "digit": 75,
+    "value": "k"
+  },
+  {
+    "digit": 76,
+    "value": "l"
+  },
+  {
+    "digit": 77,
+    "value": "m"
+  },
+  {
+    "digit": 78,
+    "value": "n"
+  },
+  {
+    "digit": 79,
+    "value": "o"
+  },
+  {
+    "digit": 80,
+    "value": "p"
+  },
+  {
+    "digit": 81,
+    "value": "q"
+  },
+  {
+    "digit": 82,
+    "value": "r"
+  },
+  {
+    "digit": 83,
+    "value": "s"
+  },
+  {
+    "digit": 84,
+    "value": "t"
+  },
+  {
+    "digit": 85,
+    "value": "u"
+  },
+  {
+    "digit": 86,
+    "value": "v"
+  },
+  {
+    "digit": 87,
+    "value": "w"
+  },
+  {
+    "digit": 88,
+    "value": "x"
+  },
+  {
+    "digit": 89,
+    "value": "y"
+  },
+  {
+    "digit": 90,
+    "value": "z"
+  },
+  {
+    "digit": 91,
+    "value": "[Windows]"
+  },
+  {
+    "digit": 92,
+    "value": "[Windows]"
+  },
+  {
+    "digit": 93,
+    "value": "[List]"
+  },
+  {
+    "digit": 96,
+    "value": "0"
+  },
+  {
+    "digit": 97,
+    "value": "1"
+  },
+  {
+    "digit": 98,
+    "value": "2"
+  },
+  {
+    "digit": 99,
+    "value": "3"
+  },
+  {
+    "digit": 100,
+    "value": "4"
+  },
+  {
+    "digit": 101,
+    "value": "5"
+  },
+  {
+    "digit": 102,
+    "value": "6"
+  },
+  {
+    "digit": 103,
+    "value": "7"
+  },
+  {
+    "digit": 104,
+    "value": "8"
+  },
+  {
+    "digit": 105,
+    "value": "9"
+  },
+  {
+    "digit": 106,
+    "value": "*"
+  },
+  {
+    "digit": 107,
+    "value": "+"
+  },
+  {
+    "digit": 109,
+    "value": "-"
+  },
+  {
+    "digit": 110,
+    "value": ","
+  },
+  {
+    "digit": 111,
+    "value": "/"
+  },
+  {
+    "digit": 112,
+    "value": "[F1]"
+  },
+  {
+    "digit": 113,
+    "value": "[F2]"
+  },
+  {
+    "digit": 114,
+    "value": "[F3]"
+  },
+  {
+    "digit": 115,
+    "value": "[F4]"
+  },
+  {
+    "digit": 116,
+    "value": "[F5]"
+  },
+  {
+    "digit": 117,
+    "value": "[F6]"
+  },
+  {
+    "digit": 118,
+    "value": "[F7]"
+  },
+  {
+    "digit": 119,
+    "value": "[F8]"
+  },
+  {
+    "digit": 120,
+    "value": "[F9]"
+  },
+  {
+    "digit": 121,
+    "value": "[F10]"
+  },
+  {
+    "digit": 122,
+    "value": "[F11]"
+  },
+  {
+    "digit": 123,
+    "value": "[F12]"
+  },
+  {
+    "digit": 144,
+    "value": "[Num Lock]"
+  },
+  {
+    "digit": 145,
+    "value": "[Scroll Lock]"
+  },
+
+  {
+    "digit": 162,
+    "value": "[Ctrl]"
+  },
+  {
+    "digit": 163,
+    "value": "[Ctrl]"
+  },
+  {
+    "digit": 164,
+    "value": "[Alt]"
+  },
+  {
+    "digit": 165,
+    "value": "[Alt]"
+  },
+  {
+    "digit": 188,
+    "value": ","
+  },
+  {
+    "digit": 190,
+    "value": "."
+  },
+  {
+    "digit": 222,
+    "value": "'"
+  },
+  {
+    "digit": 226,
+    "value": "\\"
+  }
+]
